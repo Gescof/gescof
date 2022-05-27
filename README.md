@@ -8,22 +8,22 @@ I consider myself passionate about new technologies in their most technical part
 # Skillset
 
 ## Programming and Markup Languages
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,py,js,ts,html,css,c,cpp,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,py,js,ts,html,css,c,cpp,cs&perline=5)](https://skillicons.dev)
 
 ## Frameworks
-[![My Skills](https://skillicons.dev/icons?i=spring,bootstrap,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,bootstrap,discord&perline=5)](https://skillicons.dev)
 
 ## Databases
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,redis,dynamodb,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,redis,dynamodb,mongodb&perline=5)](https://skillicons.dev)
 
 ## Servers and Cloud Architectures
-[![My Skills](https://skillicons.dev/icons?i=aws,nginx)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,nginx&perline=5)](https://skillicons.dev)
 
 ## IDEs and Tools
-[![My Skills](https://skillicons.dev/icons?i=idea,androidstudio,eclipse,visualstudio,vscode,git,github,gitlab,jenkins,docker,kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,androidstudio,eclipse,visualstudio,vscode,git,github,gitlab,jenkins,docker,kubernetes&perline=5)](https://skillicons.dev)
 
 ## Operating Systems
-[![My Skills](https://skillicons.dev/icons?i=linux,raspberrypi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,raspberrypi&perline=5)](https://skillicons.dev)
 
 # GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gescof&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
