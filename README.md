@@ -25,6 +25,13 @@ I consider myself passionate about new technologies in their most technical part
 ## Operating Systems
 [![My Skills](https://skillicons.dev/icons?i=linux,raspberrypi)](https://skillicons.dev)
 
+# GitHub Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gescof&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gescof&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gescof&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Gescof/gescof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
