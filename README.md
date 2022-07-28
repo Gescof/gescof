@@ -11,7 +11,7 @@ I consider myself passionate about new technologies in their most technical part
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,py,js,ts,c,cpp,cs,html,css&perline=5)](https://skillicons.dev)
 
 ## Frameworks
-[![My Skills](https://skillicons.dev/icons?i=spring,hibernate,bootstrap,discord&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,hibernate,fastapi,bootstrap,discord&perline=5)](https://skillicons.dev)
 
 ## Databases
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,redis,dynamodb,mongodb&perline=5)](https://skillicons.dev)
